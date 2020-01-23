@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/didjital-se/didjital/issues"
   },
-  "homepage": "https://github.com/didjital-se/didjital#readme"
+  "homepage": "https://github.com/didjital-se/didjital#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
