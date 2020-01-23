@@ -1,0 +1,19 @@
+{
+  "name": "didjital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./script/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didjital-se/didjital.git"
+  },
+  "author": "Hans Nielsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didjital-se/didjital/issues"
+  },
+  "homepage": "https://github.com/didjital-se/didjital#readme"
+}
